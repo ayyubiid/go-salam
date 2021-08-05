@@ -1,5 +1,5 @@
 package go_salam
 
 func Asslamu() string {
-	return "Assalamu'alaikum kawan"
+	return "Assalamu'alaikum Akhi, semoga Sehat Selalu"
 }
